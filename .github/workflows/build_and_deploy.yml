@@ -18,11 +18,7 @@ jobs:
         lfs: 'true'
 
     - name: Copy files
-      run: |
-        mkdir dist
-        cp *.html *.json dist/
-        [ -f "*.css" ] && cp *.css dist/
-        [ -f "*.js" ] && cp *.js dist/
+      run: "mkdir dist && cp *.html *.json dist/"
 
     - name: Upload Pages artifact
       uses: actions/upload-pages-artifact@v3
