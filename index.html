@@ -168,6 +168,7 @@
             ${formatDate(event.timestamp)}
           </time>
           <p class="text-white/80 leading-relaxed">${event.description}</p>
+          ${ event.authors && event.authors.length > 0 ? `<span class="text-sm text-white/60">by ${event.authors.join(", ")}</span>` : "" }
         </article>
       `;
       }
