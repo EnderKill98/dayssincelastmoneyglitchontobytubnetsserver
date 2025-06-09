@@ -1,15 +1,13 @@
 [
+  {
+    "timestamp": "2025-05-26T09:33:00.000Z",
+    "title": "A shop plugin allowed to sell negative items.",
+    "description": "People sell negative quantity items to get free money without even needing the items."
+  },
 
-    {
-        "timestamp": "2025-05-30T02:05:23+02:00",
-        "title": "A shop plugin allowed to sell negative items.",
-        "description": "Do i need to say more?<br><sub>Date is an approximation.</sub>"
-    },
-
-    {
-        "timestamp": "2025-06-09T01:08:00+02:00",
-        "title": "Funny race condition",
-        "description": "Money shenanigans allowed to increase/decrease money at will exponantially if abused."
-    }
-
+  {
+    "timestamp": "2025-06-08T23:08:00.000Z",
+    "title": "A economy plugin had a funny race condition.",
+    "description": "Money shenanigans allowed to increase/decrease money at will exponantially if abused."
+  }
 ]
