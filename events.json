@@ -9,5 +9,11 @@
     "timestamp": "2025-06-08T23:08:00.000Z",
     "title": "An economy plugin had a funny race condition.",
     "description": "Money shenanigans allowed to increase/decrease money at will exponantially if abused."
+  },
+
+  {
+    "timestamp": "2025-06-09T16:29:00.000Z",
+    "title": "Infinite money with emeralds.",
+    "description": "The new in-house built shop plugin is still very new. Turns out having a default price of $0.01 is a bad idea."
   }
 ]
