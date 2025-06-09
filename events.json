@@ -7,7 +7,7 @@
 
   {
     "timestamp": "2025-06-08T23:08:00.000Z",
-    "title": "A economy plugin had a funny race condition.",
+    "title": "An economy plugin had a funny race condition.",
     "description": "Money shenanigans allowed to increase/decrease money at will exponantially if abused."
   }
 ]
