@@ -18,5 +18,19 @@
     "title": "Infinite money with emeralds.",
     "description": "The new in-house built shop plugin is still very new. Turns out having a default price of $0.01 is a bad idea and can be weaponized.",
     "authors": [ "agt_", "K0iKat" ]
+  },
+
+  {
+    "timestamp": "2025-06-24T18:28:00.000Z",
+    "title": "A plugin had a funny race condition.",
+    "description": "10/10, would exploit.",
+    "authors": [ "KhaoYC" ]
+  },
+
+  {
+    "timestamp": "2025-06-24T18:55:00.000Z",
+    "title": "A plugin had another funny race condition.",
+    "description": "Too slow to exploit, but still funny. Fun fact, found in the same hour as the previous one.",
+    "authors": [ "KhaoYC" ]
   }
 ]
