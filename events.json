@@ -32,5 +32,12 @@
     "title": "A plugin had another funny race condition.",
     "description": "Too slow to exploit, but still funny. Fun fact, found in the same hour as the previous one.",
     "authors": [ "KhaoYC" ]
+  },
+
+  {
+    "timestamp": "2025-06-29T19:04:31.461Z",
+    "title": "Same plugin, same race condition, different situation.",
+    "description": "A bug in the same plugin caused this race condition to be exploitable in a different way.",
+    "authors": [ "Shrecknt" ]
   }
 ]
