@@ -18,7 +18,9 @@ jobs:
     - uses: actions/checkout@v4
 
     - name: Copy files
-      run: "mkdir dist && cp *.html *.json dist/"
+      run: |
+        mkdir dist
+        cp index.html dist/
 
     - name: Upload Pages artifact
       uses: actions/upload-pages-artifact@v3
