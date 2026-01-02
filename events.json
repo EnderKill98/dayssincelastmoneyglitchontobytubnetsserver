@@ -39,5 +39,12 @@
     "title": "Same plugin, same race condition, different situation.",
     "description": "A bug in the same plugin caused this race condition to be exploitable in a different way.",
     "authors": [ "Shrecknt" ]
+  },
+
+  {
+    "timestamp": "2026-01-01T20:05:00Z",
+    "title": "Unintentional shop items.",
+    "description": "Spyglasses, Pottery Sherds, and Brushes were able to sold, despite them being supposed to",
+    "authors": [ "Toshiscool" ]
   }
 ]
